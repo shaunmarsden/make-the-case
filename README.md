@@ -11,13 +11,7 @@ Build or audit a written case for a decision-maker who was not part of the origi
 
 A case built for someone who was not in the room needs to actually explain itself: real evidence, grounded examples, an honest cost section, and a limitations section that does not hide the gaps. A generic case that could apply to any request unchanged has failed at its one job. An unconfirmed figure dressed up as an estimate is worse than an honest placeholder.
 
-```mermaid
-flowchart TB
-    A["1. Paste the real evidence, or an existing draft to audit"]
-    B["2. Confirmed facts, inferences and unknowns kept apart"]
-    C["3. A grounded case, with risks intact, not softened"]
-    A --> B --> C
-```
+![Labels showing confirmed information, inference and unknown placeholders in a case.](assets/diagrams/05-make-the-case.svg)
 
 ## Use It
 
