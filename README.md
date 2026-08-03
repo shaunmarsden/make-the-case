@@ -43,10 +43,6 @@ No installation, project, or coding required to try it once.
 
 Check every figure is one you are actually prepared to stand behind, and that nothing reads as a guarantee of an outcome, before this goes to the decision-maker. Sending it stays your own call.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it for a real case? [Start a discussion](https://github.com/shaunmarsden/make-the-case/discussions) if something did not fit.
