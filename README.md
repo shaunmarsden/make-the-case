@@ -11,6 +11,14 @@ Build or audit a written case for a decision-maker who was not part of the origi
 
 A case built for someone who was not in the room needs to actually explain itself: real evidence, grounded examples, an honest cost section, and a limitations section that does not hide the gaps. A generic case that could apply to any request unchanged has failed at its one job, and an unconfirmed figure dressed up as an estimate is worse than an honest placeholder.
 
+```mermaid
+flowchart TB
+    A["1. Paste the real evidence, or an existing draft to audit"]
+    B["2. Confirmed facts, inferences and unknowns kept apart"]
+    C["3. A grounded case, with risks intact, not softened"]
+    A --> B --> C
+```
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the real evidence behind your request. It builds or audits:
@@ -21,9 +29,19 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - **A limitations section**, naming what this does not cover, honestly
 - **Next steps**, without implying the document alone finishes the process
 
-See [the worked example](example/): a fictional community garden group's greenhouse funding request, where the actual cost was still unconfirmed and the case correctly left it open rather than estimating a number to look more finished.
+<details>
+<summary><strong>See exactly what it produces</strong></summary>
 
-Use [the blank template](templates/case-template.md) for your own case.
+1. A grounded need statement and examples, each naming a specific fact, not generic language
+2. A cost section with confirmed figures only, unknowns left as open placeholders
+3. An accurate limitations section, refused if asked to be removed or softened
+4. Honest next steps, without implying the document alone finishes the process
+
+</details>
+
+See [the worked example](example/): a fictional community garden group's greenhouse funding request, where the actual cost was still unconfirmed and the case correctly left it open rather than estimating a number to look more finished. For the harder case, auditing an existing draft with generic language and a risk section its author wanted removed, read [the second worked example](example-two/).
+
+Use [the blank template](templates/case-template.md) for your own case, and [the review checklist](checks/checklist.md) before it goes to the decision-maker.
 
 No installation, project, or coding required to try it once.
 

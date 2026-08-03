@@ -59,4 +59,4 @@ Explain the limitation and ask for the minimum missing detail instead.
 
 Before this goes to the decision-maker, check that every figure is one you are actually prepared to stand behind, that the risk section is accurate, and that nothing reads as a guarantee of an outcome. Sending the document stays your own decision.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/case-template.md) for your own case.
+For a fictional worked example, read [the worked example](example/). For the harder case, auditing an existing draft with generic language and a risk section its author wanted removed, read [the second worked example](example-two/). Use [the blank template](templates/case-template.md) for your own case, and [the review checklist](checks/checklist.md) before it goes to the decision-maker.
