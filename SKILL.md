@@ -5,7 +5,7 @@ description: Build or audit a written case for a decision-maker who was not part
 
 # Make the Case
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then follow it with your actual inputs.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then follow it with your actual inputs.
 
 Turn real evidence into a case a decision-maker can act on without having been in the room. A case that could apply to any request unchanged has failed at its one job.
 
