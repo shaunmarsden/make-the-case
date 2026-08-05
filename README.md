@@ -13,6 +13,8 @@ A case built for someone who was not in the room needs to actually explain itsel
 
 [![Labels showing confirmed information, inference and unknown placeholders in a case.](assets/diagrams/05-make-the-case.svg)](SKILL.md)
 
+**Not what you need?** This builds the written case document itself. If someone has already agreed to carry that case to a third party on your behalf and needs briefing material to do it, [Brief Your Advocate](https://github.com/shaunmarsden/brief-your-advocate) is probably the one you want.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the real evidence behind your request. It builds or audits:
