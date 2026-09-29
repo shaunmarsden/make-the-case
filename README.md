@@ -5,50 +5,50 @@
   <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
 </p>
 
-Build or audit a written case for a decision-maker who was not part of the original conversations, a funding request, a headcount ask, a proposal to a committee.
+Build or audit a written case for someone who wasn't part of the earlier conversations: a funding request, a headcount ask, a proposal to a committee.
 
 ## Why
 
-A case built for someone who was not in the room needs to actually explain itself: real evidence, grounded examples, an honest cost section, and a limitations section that does not hide the gaps. A generic case that could apply to any request unchanged has failed at its one job. An unconfirmed figure dressed up as an estimate is worse than an honest placeholder.
+A case for someone who wasn't there has to explain itself. It needs real evidence, specific examples, a truthful cost section and a limitations section that shows the gaps. A case that would fit any request unchanged has failed. An unconfirmed figure passed off as an estimate is worse than a plain placeholder.
 
 [![Labels showing confirmed information, inference and unknown placeholders in a case.](assets/diagrams/05-make-the-case.svg)](SKILL.md)
 
-**Not what you need?** This builds the written case document itself. If someone has already agreed to carry that case to a third party on your behalf and needs briefing material to do it, [Brief Your Advocate](https://github.com/shaunmarsden/brief-your-advocate) is probably the one you want.
+**Not what you need?** This writes the case itself. If someone has agreed to put your case to a third party for you and needs briefing notes, try [Brief Your Advocate](https://github.com/shaunmarsden/brief-your-advocate).
 
 ## Use It
 
-Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the real evidence behind your request. It builds or audits:
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini or similar), then paste in the real evidence behind your request. It builds or audits:
 
-- **The need**, grounded in what was actually established, not a generic problem statement
-- **Grounded examples**, each naming a specific fact and what changes as a result
-- **A cost section**, with confirmed figures only; anything unknown stays an open placeholder
-- **A limitations section**, naming what this does not cover, honestly
-- **Next steps**, without implying the document alone finishes the process
+- The need, based on what you established, not a generic problem statement
+- Examples that each name a specific fact and what changes because of it
+- A cost section with confirmed figures only, and open placeholders for anything unknown
+- A limitations section that says plainly what the case doesn't cover
+- Next steps that don't suggest the document alone finishes the process
 
 <details>
-<summary><strong>See exactly what it produces</strong></summary>
+<summary><strong>See what it produces</strong></summary>
 
-1. A grounded need statement and examples, each naming a specific fact, not generic language
-2. A cost section with confirmed figures only, unknowns left as open placeholders
-3. An accurate limitations section, refused if asked to be removed or softened
-4. Honest next steps, without implying the document alone finishes the process
+1. A need statement and examples that each name a specific fact, not generic language
+2. A cost section with confirmed figures only, and unknowns left as open placeholders
+3. An accurate limitations section, which it won't remove or soften if you ask
+4. Next steps that don't suggest the document alone finishes the process
 
 </details>
 
-See [the worked example](example/): a fictional community garden group's greenhouse funding request, where the actual cost was still unconfirmed and the case correctly left it open rather than estimating a number to look more finished. For the harder case, auditing an existing draft with generic language and a risk section its author wanted removed, read [the second worked example](example-two/).
+[The worked example](example/) is a fictional community garden group asking for greenhouse funding. The cost wasn't confirmed yet, and the case left it open rather than guessing a number to look finished. [The second worked example](example-two/) is harder. It audits an existing draft with generic language and a risk section its author wanted removed.
 
 Use [the blank template](templates/case-template.md) for your own case, and [the review checklist](checks/checklist.md) before it goes to the decision-maker.
 
-No installation, project, or coding required to try it once.
+You don't need to install anything, set up a project or write code to try it.
 
 ## Before You Use It
 
-Check every figure is one you are actually prepared to stand behind, and that nothing reads as a guarantee of an outcome, before this goes to the decision-maker. Sending it stays your own call.
+Before this goes to the decision-maker, check you'd stand behind every figure and that nothing reads as a guaranteed outcome. Sending it is your call.
 
 ## Feedback
 
-Used it for a real case? [Start a discussion](https://github.com/shaunmarsden/make-the-case/discussions) if something did not fit.
+Used it for a real case? [Start a discussion](https://github.com/shaunmarsden/make-the-case/discussions) if something didn't fit.
 
 ## Part of a Family
 
-This is one of a family of free tools generalising [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) patterns beyond sales. See [sibling-projects](https://github.com/shaunmarsden/sibling-projects) for the rest. Not sure which one actually fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/) for clickable cards, or [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md) if you would rather paste a description into an AI chat.
+This is one of a family of free tools that take patterns from [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) beyond sales. [sibling-projects](https://github.com/shaunmarsden/sibling-projects) lists the rest. Not sure which one fits? Try [the interactive picker](https://shaunmarsden.github.io/sibling-projects/), which shows clickable cards, or paste a description into an AI chat with [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md).
