@@ -1,19 +1,22 @@
-# Honest Review: Greenhouse Funding Request
+# Review: Greenhouse Funding Request
 
-Checking [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
+I checked [output.md](output.md) against what [inputs.md](inputs.md) was built to test.
 
 ## What Worked
 
-- **Kept the cost genuinely open rather than estimated.** Two quotes are outstanding, and it would have been easy to invent a plausible-sounding figure to make the case look more complete. The output correctly left this as an open placeholder, exactly what the guardrail against dressing up an unknown as a fact exists to catch.
-- **Used the volunteer commitment as the stronger evidence, not just the sign-up count.** 40 sign-ups shows interest; three written commitments to ongoing upkeep shows something more specific, sustained willingness. The output correctly distinguished these rather than treating both as equally strong evidence of demand.
-- **Named the actual limitation rather than hiding it.** The shed roof is a real, separate problem the greenhouse does not solve. The output stated this plainly rather than letting the reader assume the greenhouse request covers everything wrong with the current setup.
-- **Written for a reader with no prior context.** The case explains the sign-up sheet, the inspection, and the volunteer commitments as things the reader is hearing for the first time, since the grant committee genuinely was not at any of the meetings.
+It left the cost open. Two quotes are still to come back, and it would have been easy to invent a likely-sounding figure to make the case look complete. The output left an open placeholder instead, which is what the guardrail against passing off an unknown as a fact is there for.
+
+It treated the volunteer commitments as the stronger evidence. The 40 sign-ups show interest. Three written promises of weekly upkeep show something more specific: people willing to keep giving their time. The output kept the two apart rather than treating them as equal evidence of demand.
+
+It named the real limitation. The shed roof is a separate problem the greenhouse doesn't solve. The output said so plainly, so the reader won't assume the request covers everything wrong with the current setup.
+
+It was written for a reader with no background. The committee wasn't at any of the meetings, so the case explains the sign-up sheet, the inspection and the volunteer commitments as new information.
 
 ## What Still Needs a Human Check
 
-- Once the two quotes come back, a person needs to confirm the actual figure before it goes to the committee, not treat this draft's placeholder as ready to submit as-is.
-- Whether the three volunteers' written commitment is still current by the time this is submitted is worth a quick check rather than assumed.
+- When the two quotes come back, someone needs to confirm the figure before the case goes to the committee. The placeholder isn't ready to submit as it is.
+- It's worth checking the three volunteers' written commitment still stands when this is submitted.
 
 ## Verdict
 
-No automatic failure. The case used the strongest available evidence specifically (the volunteer commitments, not just the sign-up count), named a real limitation instead of hiding it, and left the one genuinely unconfirmed figure open rather than filled with an invented number.
+No automatic failure. The case used the strongest evidence (the volunteer commitments, not just the sign-up count), named a real limitation and left the one unconfirmed figure open instead of inventing a number.
