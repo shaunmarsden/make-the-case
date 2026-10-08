@@ -15,6 +15,7 @@ It flagged the missing cost figure rather than inventing one to make the correct
 ## What Still Needs a Human Check
 
 - The hiring cost needs adding from real figures before this goes to the director.
+- The corrected case says "Restoring headcount to four or five" and ties the slower response time to the workload since the departures. The inputs show neither: the draft asks for one hire, and they don't establish what caused the slowdown. The corrected case also has no personalised title, which the skill asks for.
 
 ## Verdict
 

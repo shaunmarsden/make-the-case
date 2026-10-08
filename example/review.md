@@ -15,6 +15,7 @@ It was written for a reader with no background. The committee wasn't at any of t
 ## What Still Needs a Human Check
 
 - When the two quotes come back, someone needs to confirm the figure before the case goes to the committee. The placeholder isn't ready to submit as it is.
+- The output adds three things the inputs don't say: the group is pursuing the shed repair "through a different route", the request is "submitted now" with the figure to follow, and committee approval "does not itself commit funds". Confirm or cut each before submitting, and hold the case until the figure is in.
 - It's worth checking the three volunteers' written commitment still stands when this is submitted.
 
 ## Verdict
